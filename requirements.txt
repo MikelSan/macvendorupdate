@@ -1,7 +1,7 @@
 certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
-dnspython==2.0.0
+dnspython==2.1.0
 idna==2.10
 mysql-connector-python==8.0.21
 progress==1.5
